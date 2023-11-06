@@ -1,1 +1,1 @@
-# Python-project
+# js-issue-tracker
